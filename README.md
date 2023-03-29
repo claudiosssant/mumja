@@ -1,5 +1,4 @@
-mumja
-<h1 align="center"> mumja </h1>
+<h1 align="center"> Mumja </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
