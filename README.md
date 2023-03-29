@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Mumja é um projeto de formulário de login, com tela de registro oculta, totalmente responsiva.
 
-- [Visite o projeto online](https://claudiosssant.github.io/myhabits/)
+- [Visite o projeto online](https://claudiosssant.github.io/myhabits/](https://claudiosssant.github.io/mumja/))
